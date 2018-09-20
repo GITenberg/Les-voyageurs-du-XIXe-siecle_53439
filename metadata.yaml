@@ -1,5 +1,5 @@
 _repo: Les-voyageurs-du-XIXe-siecle_53439
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Benett, Léon
@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/L%C3%A9on_Benett
     - http://fr.wikipedia.org/wiki/L%C3%A9on_Benett
+covers:
+- cover_type: archival
+  image_path: 53439-h/images/cover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -31,6 +34,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53439#Les-voyageurs-du-XIXe-siecle
 gutenberg_bookshelf:
 - FR Illustrateurs
 - FR Voyages et pays
